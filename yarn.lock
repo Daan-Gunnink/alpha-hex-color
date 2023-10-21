@@ -122,6 +122,18 @@
   resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.15.tgz#d7c6e6755c78567a951e04ab52ef0fd26de59f32"
   integrity sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==
 
+"@radial-color-picker/rotator@3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@radial-color-picker/rotator/-/rotator-3.0.2.tgz#44289355f9dcf28f58af1a6964d28ef55b3ff518"
+  integrity sha512-JiSVkN/hSMKqIcQz8KaeLvbzA0UrZkKQL2Q8s4MUxehjLcciTSctG75V8trHk0tPkTfglZjLlmg+S5+xO3GBLQ==
+
+"@radial-color-picker/vue-color-picker@^5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@radial-color-picker/vue-color-picker/-/vue-color-picker-5.0.1.tgz#13194552df9d6df31aedc64ec9be1f16562f2b8c"
+  integrity sha512-ExTbaDdac00RqxCPcfWKj2UrtBbzwph0HRVQKKgj94aCkWz8vedme+65v97cZUCdxOvxh0BANGgi6RD6H966Zw==
+  dependencies:
+    "@radial-color-picker/rotator" "3.0.2"
+
 "@vitejs/plugin-vue@^4.2.3":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-4.4.0.tgz#8ae96573236cdb12de6850a6d929b5537ec85390"
