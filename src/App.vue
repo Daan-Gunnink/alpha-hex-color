@@ -174,7 +174,6 @@ function toSaturationGradientString() {
 function toLuminosityGradientString() {
   const { r:r1, g:g1, b:b1 } = HSLToRGB(color.hue, color.saturation, 0);
   const { r:r2, g:g2, b:b2} = HSLToRGB(color.hue, color.saturation, 100);
-  console.log(`rgb(${r1},${g1},${b1},1)`)
   return `-moz-linear-gradient(0deg, rgb(${r1},${g1},${b1},1), rgb(${r2},${g2},${b2},1))`;
 }
 
