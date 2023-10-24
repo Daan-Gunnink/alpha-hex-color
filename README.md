@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Alpha Hex Color Picker - Hex Alpha without the fuss
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[Explore Now](https://daan-gunnink.github.io/alpha-hex-color/)
 
-## Recommended IDE Setup
+- 🌈 Are you looking for a straightforward solution to find hex colors with alpha transparency? Alpha Hex Color Picker makes it easy, without any unnecessary fuss.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- 📈 **Precision at Your Fingertips** - Easily adjust hue, saturation, luminosity, and alpha values to fine-tune the color.
+
+- 🚀 **Vue 3** and the composition API, hosted on github pages.
